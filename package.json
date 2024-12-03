@@ -1,0 +1,26 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "this todo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/syedomer17/todo-cfi.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js"
+  ],
+  "author": "syed omer ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syedomer17/todo-cfi/issues"
+  },
+  "homepage": "https://github.com/syedomer17/todo-cfi#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
